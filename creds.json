@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "project-amo",
+  "private_key_id": "edfe786e1156e9437d93059d1787977f93dc0022",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrlg9S/y0GCiGt\nyRZBCnXXPkwt9r1j7eBaBWCODI5CeYxZCiO0rmfC6cbvuQacwvvE9ZRCxxdlRHhQ\nwTtGn04EtN82354eRGdDI9dB+OekQvfxGzkHVa9RmGLt1NWrKV6nVqGVbxApOufW\neiKEN9E4/K504D2TF8sCVk/KN5CQnxuNJOtjjdUSrzzGHBgGYhRqsSKqoOQ8xUC1\nu1wNyQM0eMrmBUAJFia0APQSKOQIMD0VBnIV1F4egDq8DlW8fQf3wksvOGsOxh6X\n97ev8VlPPwyIVaNhu/LERyID9tCxQwBe0dogzQzGCOeDA+YfDboHtldKM1RaOdQg\ngoc/cMbjAgMBAAECggEAKG2jb7FLGPSzKcDK+wktack2ZtAPoKdwKJXCwcVokXYV\nIPeYIR7EuPKfGmWUjsQMUURxqehB9WzUEmbtAf9QASDixQmcNlJ0qCeeNN+iKJxU\n0hzRa45/T/DhQltW+sy1DiWFzfFMtAI6lNjTICcMp2o16rjZGTrObN8MTr+X0tMf\nYQeMHCMj+cv5LFrWd+wPFm8C4U+IzAtY8spreIR1QUC0/9zGhCgjmHspBWaRTpod\naC7vG26g9SWOibAKz4XMZ30JhRT3nS2Qk3C5IsZR+STvYKoxK5t1F/JLkMrtFuGc\nPIfVC6dsCu9XmjeDcA6wEK4l5Ig9tKGqQYd4c7L8IQKBgQDdJ1GiHEzlKdXvB4lq\nyrwlR2cYb8QQtOmCHPUPIunUSL+K3UVmDAYnhGe8DbonNiYLQxGYkPXPVg5oKGTy\nzAtjMQUIE/oZY4FFv3L7VI4KEuFPkV/+FjzOb7wRniNj0VemJhmwq30GeYKaZc4M\nMFmEiy0DWAosZQqP+ho7LkCKwwKBgQDGn1aLuQM2eDSpPsBBJNO/zCiBHEa8zuur\nIY8yYmFryTc4Hd/ZtTMU2jBogk4MmkdWMnjT8UgoWM/LvgkWSVqK3gqo32+cz0AC\nmWHA4gyVDJ77tqIPAQgDKGmdx4p24hRdvgCxR4wxmLjj+JPqkWe81lCaSVASFZLB\nwV1hYFHRYQKBgQCa44rdCw0gAyj+fDzWOp+DTHr8NmsPeGWC510K+Nzj/P+J9mdA\njXNSAf3VS5fxFo+Wm6abQAuo5xC4CnKJSjc/hXmMqtEjLvm/K9MQC6xfidGbtKmS\nf2ie/MqvXB5VLq1AhLbBcZnjCv9Zu6uQBdzsY71m9iZJ6Yp4RCZTBJXXmQKBgHjb\nn8fpTiEox7JsMoPxKr+8NLFLSWe96Pz6sK2R24HAsE7/LqTEc06u7WHKWD+m6N10\nXL1qReP3Fon9Gn5rKCLztTzIqJucKHDsb+T0J3/SbDLyEG5czElPn+SX9JMeQhJA\neR9mT9ImAesF6MuEqsDnD6iyD3zRj7lCNdX4zBBBAoGAB1yy4UdWHF3FHmDBPDSi\n5NlyZDLUoGUC6ui8M9XZxOqKiZeXC8Sf1M/QfnVSeSljTD5jMq8V80WEHuPH2Qy9\nDENJHxUVc9QMRi6Lnj7NgDJiaNCg/7kmxo0UWMaZlxoOuxRPCa/g0oSV2heYw/Fx\nelyePNI2t+SGn9UfyomwKRE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "amo-test-account@project-amo.iam.gserviceaccount.com",
+  "client_id": "115900263581600824964",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amo-test-account%40project-amo.iam.gserviceaccount.com"
+}
